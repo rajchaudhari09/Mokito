@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bae7704f-12f2-480a-9bbb-42f2f5e3e43d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bridgelabz.mockitoTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MockitoTest.testQuery">
+    <configuration name="MockitoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.mockitoTest.MockitoTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MockitoTest.testQuery" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.mockitoTest.MockitoTest.testQuery&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MockitoTest.testQuery" />
+        <item itemvalue="Gradle.MockitoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bae7704f-12f2-480a-9bbb-42f2f5e3e43d" name="Default Changelist" comment="" />
+      <created>1586887754278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586887754278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586887927551">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="662" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1586887927551" />
+    <state width="1794" height="260" key="GridCell.Tab.0.bottom" timestamp="1586888320098">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state width="1794" height="260" key="GridCell.Tab.0.bottom/70.34.1850.1046@70.34.1850.1046" timestamp="1586888320098" />
+    <state width="1794" height="260" key="GridCell.Tab.0.center" timestamp="1586888320096">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state width="1794" height="260" key="GridCell.Tab.0.center/70.34.1850.1046@70.34.1850.1046" timestamp="1586888320096" />
+    <state width="1794" height="260" key="GridCell.Tab.0.left" timestamp="1586888320094">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state width="1794" height="260" key="GridCell.Tab.0.left/70.34.1850.1046@70.34.1850.1046" timestamp="1586888320094" />
+    <state width="1794" height="260" key="GridCell.Tab.0.right" timestamp="1586888320097">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state width="1794" height="260" key="GridCell.Tab.0.right/70.34.1850.1046@70.34.1850.1046" timestamp="1586888320097" />
+  </component>
+</project>
